@@ -1,0 +1,42 @@
+
+.card1{
+   
+    background-color: rgb(222, 49, 81);
+    width: 320px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.card2{
+   
+    background-color:  rgb(217, 59, 48);
+    width: 320px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.card3{
+   
+    background-color:  rgb(204, 45, 74);
+    width: 320px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.card4{
+   
+    background-color: rgb(188, 26, 110);
+    width: 320px;
+    border-radius: 10px;
+    margin: 10px;
+}
+    
+.p{
+    padding: 10px;
+}
+.img{
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius:10px ;
+}
+.flexbox{
+    display: flex;
+   
+}
